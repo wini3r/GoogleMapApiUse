@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Чудо-карта</string>
+    <string name="title_activity_maps">Карта</string>
+    <string name="option_get_place">Что рядом?</string>
+    <string name="option_get_place_picker">Поиск</string>
+</resources>
